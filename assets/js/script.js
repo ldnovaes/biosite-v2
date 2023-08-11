@@ -1,5 +1,5 @@
 const html = document.documentElement;
-let buttonToggle = document.querySelector("#toggle");
+let buttonToggle = document.querySelector("#switch");
 
 buttonToggle.addEventListener("click", () => {
     if (html.classList.contains("light")) {
