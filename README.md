@@ -1,6 +1,6 @@
 # Biosite v2
 
-O projeto foi desenvolvido com o propósito de promover o aprendizado e oferecer suporte a aspirantes a influenciadores, permitindo-lhes conquistar seu próprio espaço digital - um biosite totalmente gratuito. Com o intuito de aprimorar habilidades e compartilhar conhecimento, esta iniciativa visa capacitar e guiar os indivíduos em sua jornada de desenvolvimento, fortalecendo sua presença online de forma profissional e eficaz.
+O projeto é uma versão mais customizada do já existente do projeto [biosite](https://github.com/ldnovaes/biosite) e foi desenvolvido com o mesmo propósito da versão inicial. A inteção é colaborar com pequenos influenciadores e pequenas empresas oferecendo-lhes um biosite personalizado e totalmente gratuito.
 
 ## 🛠️ Construído com
 
